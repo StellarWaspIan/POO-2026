@@ -3,6 +3,7 @@ package TP1_HERENCIA.EJER9;
 abstract public class figura {
     private String colorfondo;
     private String colorborde;
+    public final double pi = 3.14;
 
     //Constructor
     public figura(String colorfondo, String colorborde) {

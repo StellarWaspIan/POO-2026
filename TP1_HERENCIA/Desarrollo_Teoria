@@ -1,0 +1,4 @@
+1. Dados 3 Objetos: A, B (extends A) y C (extends B)
+1a: Objeto A solo puede recibir mensajes de si mismo
+1b: Objeto B solo puede recibir mensajes de si mismo y de A.
+1c: Objeto C solo puede recibir mensajes de si mismo y de B.

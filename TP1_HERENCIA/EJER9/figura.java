@@ -23,8 +23,8 @@ abstract public class figura {
         this.colorborde = colorborde;
     }
 
-    public abstract void calcSuperficie();
-    public abstract void calcPerimetro();
+    public abstract double calcSuperficie();
+    public abstract double calcPerimetro();
     public abstract String dibujarFigura();
     
 }
